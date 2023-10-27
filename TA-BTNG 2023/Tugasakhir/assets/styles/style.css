@@ -1,0 +1,29 @@
+* {
+    font-family: "Poppins", sans-serif;
+  }
+  
+  .bg-light {
+    background-color: #edf4ff !important;
+  }
+  #skill .box-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  #skill .box {
+    background-color: rgb(42, 223, 57);
+    padding: 30px;
+    border-radius: 10px;
+    border: solid 1px #000;
+    width: 400px;
+  
+  }
+
+#skill .box h1 {
+  font-size: 25px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+#skill .box li {
+  font-size: 20px;
+}
